@@ -1,6 +1,5 @@
 # Key Logger
 Simple keylogger made in java.
-<br>
 Registers all pressed keys and sends email with log raport each 3 minutes.
 <br>
 Works on MacOS, Windows, Linux etc.
