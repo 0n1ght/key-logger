@@ -11,3 +11,4 @@ Works on Windows, MacOS, Linux etc.
   ``` mvn clean package ```
   now your .jar file with the program will appear in "target" folder. now you can just take it and run when you will need to
   ``` java -jar <path_to_jar_file> ```
+  you can also checkout some Launch4J tutorial on youtube and create an .exe file
