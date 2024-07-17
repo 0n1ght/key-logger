@@ -2,7 +2,7 @@
 Simple keylogger made in java.
 Registers all pressed keys and sends email with log raport every 6 minutes.
 <br>
-Works on MacOS, Windows, Linux etc.
+Works on Windows, MacOS, Linux etc.
 
 ## How to use it?
 - Pull the Project form GitHub or download .jar file and open
